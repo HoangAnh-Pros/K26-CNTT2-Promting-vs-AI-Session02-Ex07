@@ -1,2 +1,31 @@
-Bài 7: Soạn Email Khủng hoảng Giao chậm Black Friday theo Khung CREATE
-Vấn đề : 
+Bài 7: Soạn Email Khủng hoảng Giao chậm Black Friday theo Khung CREATE.
+Vấn đề : Bạn cần nhờ AI soạn Email gửi lời xin lỗi và đền bù tổn thất cho khách hàng cùng cam kết.Bạn cần thiết lập 1 khung CREATE.
+Yêu cầu : - Thiết kế chi tiết 6 khối CREATE.
+          - Master promt hoàn chỉnh. 
+Giải quyết vấn đề : 
+Phần 1 : Thiết kế chi tiết 5 khối CREATE.
+1.Character ( C ) : Vai trò đảm nhiệm.
+- Bạn là ban giám đốc của công ty công nghệ viết email gửi đích danh từng khách hàng.
+2.Request ( R ): Nhiệm vụ chi tiết của email
+-  vừa chân thành nhận lỗi, giải trình minh bạch lý do bất khả kháng, cam kết lộ trình giao hàng mới và tặng kèm Voucher giảm giá 15% cho đơn hàng sau.
+3.Examples ( E ) : Câu văn mẫu thể hiện sự đồng cảm
+- Chúng tôi cũng hiểu những bức xúc các vị khách hàng đã trải qua. Vì vậy chúng tôi gửi kèm lời xin lỗi chân thành nhất và 1 phiếu voucher giảm 15% .Mong quý khách hàng hãy thông cảm và tiếp nhận sự chân thành của chúng tôi 
+                                                           - ( Ban giám đốc công ty ) 
+4.Adjustment ( A ) : Các điều cấm kỵ (không đổ lỗi,không lời hứa suông)
+- Không được đỗ lỗi do hệ thống,do bộ phận quản lí (mà là lỗi từ công ty chúng tôi)
+- Thực hiện trước\sau khi gửi email ( không lời hứa suông ) phát voucher cùng với khi gửi email.
+5.Type of Output ( T ) cấu trúc khung email : 
+- Định dạng email chuẩn: Tiêu đề rõ ràng, lời chào trang trọng, 3 đoạn thân bài súc tích, lời cam kết và thông tin liên hệ khẩn cấp.
+- Giọng văn: Cực kỳ cầu thị, chuyên nghiệp, đồng cảm, không đùn đẩy trách nhiệm cho đơn vị vận chuyển.
+6.Extras ( E ) : Voucher kèm theo có hiệu lực vĩnh viễn giảm 15% cho đơn mua hàng tiếp theo
+Phần 2 : Master Promt hoàn chỉnh 
+--> [Bạn là ban giám đốc của công ty công nghệ viết email gửi đích danh từng khách hàng.,vừa chân thành nhận lỗi, giải trình minh bạch lý do bất khả kháng, cam kết lộ trình giao hàng mới và tặng kèm Voucher giảm giá 15% cho đơn hàng sau.,
+-Chúng tôi cũng hiểu những bức xúc các vị khách hàng đã trải qua. Vì vậy chúng tôi gửi kèm lời xin lỗi chân thành nhất và 1 phiếu voucher giảm 15% .Mong quý khách hàng hãy thông cảm và tiếp nhận sự chân thành của chúng tôi 
+                                                           - ( Ban giám đốc công ty ) 
+- Không được đỗ lỗi do hệ thống,do bộ phận quản lí (mà là lỗi từ công ty chúng tôi)
+- Thực hiện trước\sau khi gửi email ( không lời hứa suông ) phát voucher cùng với khi gửi email.
+- Định dạng email chuẩn: Tiêu đề rõ ràng, lời chào trang trọng, 3 đoạn thân bài súc tích, lời cam kết và thông tin liên hệ khẩn cấp.
+- Giọng văn: Cực kỳ cầu thị, chuyên nghiệp, đồng cảm, không đùn đẩy trách nhiệm cho đơn vị vận chuyển.
++ Voucher kèm theo có hiệu lực vĩnh viễn giảm 15% cho đơn mua hàng tiếp theo]
+
+
